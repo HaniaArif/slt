@@ -1,6 +1,6 @@
 name: sign_experiment
 data:
-    data_path: /kaggle/input/slt-test/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translatio/data/
+    data_path: ./data/
     version: phoenix_2014_trans
     sgn: sign
     txt: text
